@@ -5,10 +5,10 @@
       <b-container fluid="md">
         <b-list-group>
           <b-row>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><b-icon icon="signpost"></b-icon> Hiking</b-button></b-col>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><b-icon icon="cursor"></b-icon> Running</b-button></b-col>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><b-icon icon="bicycle"></b-icon> Biking</b-button></b-col>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><b-icon icon="people"></b-icon> Family</b-button></b-col>
+            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><b-icon icon="signpost" font-scale="3"></b-icon> <span class="h1">Hiking</span></b-button></b-col>
+            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><b-icon icon="cursor" font-scale="3"></b-icon> <span class="h1">Running</span></b-button></b-col>
+            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><b-icon icon="bicycle" font-scale="3"></b-icon> <span class="h1">Biking</span></b-button></b-col>
+            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><b-icon icon="people" font-scale="3"></b-icon> <span class="h1">Family</span></b-button></b-col>
           </b-row>
         </b-list-group>
       </b-container>
