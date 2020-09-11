@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: '/appv3/public/'
-  }
+    publicPath: "/appv3/",
+    outputDir: "docs"
+  };
