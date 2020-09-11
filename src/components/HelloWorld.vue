@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h2>{{ msg }}</h2>
     <div class="myoverlay mt-3">
       <b-container fluid="md">
         <b-list-group>
