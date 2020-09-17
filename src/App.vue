@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+    <!-- <img alt="Vue logo" src="./assets/images/icons/parco.png"> -->
     <HelloWorld msg="Cinque Terre Hiking Guide v.3"/>
   </div>
 </template>
