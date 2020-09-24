@@ -4,19 +4,71 @@
     <h2>{{ msg }}</h2>
     <div class="myoverlay mt-5 mb-5">
       <b-container fluid="md">
-        <b-list-group>
+        
           <b-row>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="light"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons_w/hiking.png"><span class="h1">Hiking</span></b-button></b-col> 
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons_w/running.png"> <span class="h1">Running</span></b-button></b-col>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-warning"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons_w/biking.png"> <span class="h1">Biking</span></b-button></b-col>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-success"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons_w/family.png"> <span class="h1">Family</span></b-button></b-col>
+            <b-col sm="4" md="4" lg="3">
+              <b-link href="#">
+                <div><img class="img-fluid w-100" alt="Vue logo" src="../assets/images/icons_w/hiking.png"></div>
+              </b-link>
+              <div><span class="h1">Hiking</span></div>
+            </b-col> 
+            
+            <b-col sm="4" md="4" lg="3">
+              <b-link href="#">
+                <div><img class="img-fluid w-100" alt="Vue logo" src="../assets/images/icons_w/running.png"></div>
+              </b-link>
+              <div><span class="h1">Running</span></div>
+            </b-col> 
+
+            <b-col sm="4" md="4" lg="3">
+              <b-link href="#">
+                <div><img class="img-fluid w-100" alt="Vue logo" src="../assets/images/icons_w/biking.png"></div>
+              </b-link>
+              <div><span class="h1">Biking</span></div>
+            </b-col> 
+
+            <b-col sm="4" md="4" lg="3">
+              <b-link href="#">
+                <div><img class="img-fluid w-100" alt="Vue logo" src="../assets/images/icons_w/family.png"></div>
+              </b-link>
+              <div><span class="h1">Family</span></div>
+            </b-col> 
+        
           </b-row>
-        </b-list-group>
+
+          <b-row class="riga">
+            <b-col sm="4" md="4" lg="3">
+              <b-link href="#">
+                <div><img class="img-fluid w-100" alt="Vue logo" src="../assets/images/icons_w/nordic.png"></div>
+              </b-link>
+              <div><span class="h1">Nordic Walking</span></div>
+            </b-col> 
+        
+            <b-col sm="4" md="4" lg="3">
+              <b-link href="#">
+                <div><img class="img-fluid w-100" alt="Vue logo" src="../assets/images/icons_w/parco.png"></div>
+              </b-link>
+              <div><span class="h1">Il Parco</span></div>
+            </b-col> 
+        
+            <b-col sm="4" md="4" lg="3">
+              <b-link href="#">
+                <div><img class="img-fluid w-100" alt="Vue logo" src="../assets/images/icons_w/borghi.png"></div>
+              </b-link>
+              <div><span class="h1">Borghi</span></div>
+            </b-col> 
+        
+            <b-col sm="4" md="4" lg="3">
+              <b-link href="#">
+                <div><img class="img-fluid w-100" alt="Vue logo" src="../assets/images/icons_w/card.png"></div>
+              </b-link>
+              <div><span class="h1">La Card</span></div>
+            </b-col> 
+        
+        
+          </b-row>
+        
       </b-container>
-    </div>
-    <div>
-      
-      Footer
     </div>
   </div>
 </template>

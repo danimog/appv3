@@ -2,6 +2,15 @@ body{
     font-family: 'Titillium Web', sans-serif;
 }
 
+.my-link{
+    color: black;
+    text-decoration: none;
+}
+
+.riga{
+    margin-top: 2em;
+}
+
 .hello{
     
 }
