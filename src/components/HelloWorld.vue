@@ -34,9 +34,6 @@
               <div><span class="h1">Family</span></div>
             </b-col> 
         
-          </b-row>
-
-          <b-row class="riga">
             <b-col sm="4" md="4" lg="3">
               <b-link href="#">
                 <div><img class="img-fluid w-100" alt="Vue logo" src="../assets/images/icons_w/nordic.png"></div>
