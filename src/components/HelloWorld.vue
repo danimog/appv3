@@ -6,13 +6,11 @@
       <b-container fluid="md">
         <b-list-group>
           <b-row>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-danger"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons/hiking.png"><span class="h1">Hiking</span></b-button></b-col>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons/running.png"> <span class="h1">Running</span></b-button></b-col>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-warning"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons/biking.png"> <span class="h1">Biking</span></b-button></b-col>
-            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-success"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons/family.png"><span class="h1">Family</span></b-button></b-col>
+            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-danger"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons_w/hiking.png"><span class="h1">Hiking</span></b-button></b-col> 
+            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-info"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons_w/running.png"> <span class="h1">Running</span></b-button></b-col>
+            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-warning"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons_w/biking.png"> <span class="h1">Biking</span></b-button></b-col>
+            <b-col sm="12" md="6" lg="3"><b-button class="w-100 m-2" variant="outline-success"><img class="img-fluid" alt="Vue logo" src="../assets/images/icons_w/family.png"> <span class="h1">Family</span></b-button></b-col>
           </b-row>
-
-
         </b-list-group>
       </b-container>
     </div>
